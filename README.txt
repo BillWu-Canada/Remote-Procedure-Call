@@ -1,6 +1,6 @@
 group members information:
 
-NAME          RESPONSIBILITIES——————————————————————————————————————————————————————————————————————
+NAME          RESPONSIBILITIES———————————————————————————————————————————————————————————————————————
 Alex Luk      binder; rpcCacheCall
 Yinwen Wu     rpcInit; rpcCall; rpcRegister; rpcExecute; rpcTerminate
 
